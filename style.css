@@ -1,0 +1,23 @@
+* {
+  font-family: Helvetica, Arial;
+  background-color: rgb(230, 230, 230);
+}
+
+body {
+  width: 50%;
+  margin: 5vh auto;
+}
+
+h2 {
+  text-align: center;
+}
+
+button {
+  width: 100%;
+  cursor: pointer;
+  margin-top: 2vh;
+}
+
+.bg {
+  background-color: #d4ca9d;
+}
